@@ -26,18 +26,18 @@ This PHP script generates a dynamic schedule for reading Hadith based on specifi
 
 1. Clone the repository to your local machine or download the script:
    ```bash
-   git clone https://github.com/your-username/muntaqhab-hadis.git
+   git clone [https://github.com/your-username/muntaqhab-hadis.git](https://github.com/dev-talha/muntakhab-hadis-readinge-schedule.git)
    
 2. Modify the script:
--Adjust $start_date to set your desired start date for the reading schedule.
--Update $days to change the number of days to track and schedule Hadith readings.
--Customize the $persons array to include the names of individuals participating in the reading schedule.
--Host the script on a PHP-enabled web server.
--Access the website through a web browser to view the dynamically generated schedule.
+- Adjust $start_date to set your desired start date for the reading schedule.
+- Update $days to change the number of days to track and schedule Hadith readings.
+- Customize the $persons array to include the names of individuals participating in the reading schedule.
+- Host the script on a PHP-enabled web server.
+- Access the website through a web browser to view the dynamically generated schedule.
 
 ## Dependencies
--**Bootstrap v5.0.2**: Included via CDN for styling.
--**Google Fonts (Noto Sans Bengali)**: Included via CDN for font display.
+- **Bootstrap v5.0.2**: Included via CDN for styling.
+- **Google Fonts (Noto Sans Bengali)**: Included via CDN for font display.
 
 ## Contributing
--Contributions are welcome! If you have suggestions, enhancements
+- Contributions are welcome! If you have suggestions, enhancements
